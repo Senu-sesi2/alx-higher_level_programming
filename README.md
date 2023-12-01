@@ -9,3 +9,6 @@
 
 ## 0x01. Python - If/Else, Loops, Functions
  * The statements and functions in python.
+
+## 0x02. Python - import & modules
+ * This project consists of modules in python.

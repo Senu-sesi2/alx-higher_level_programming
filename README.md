@@ -12,3 +12,6 @@
 
 ## 0x02. Python - import & modules
  * This project consists of modules in python.
+
+## 0x03. Python - Data Structures: Lists, Tuples
+ * This project consists of Data Structures in python

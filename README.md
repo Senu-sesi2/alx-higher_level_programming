@@ -18,3 +18,6 @@
 
 ## 0x04. Python - More Data Structures: Set, Dictionary
  * This project consists of more of Data Structures set, Dictionary
+
+## 0x05. Python - Exceptions
+ * This project consists of python Errors and Exceptions

@@ -21,3 +21,6 @@
 
 ## 0x05. Python - Exceptions
  * This project consists of python Errors and Exceptions
+
+## 0x06. Python - Classes and Objects
+ * This project consist of python class and objects

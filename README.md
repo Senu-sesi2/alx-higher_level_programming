@@ -23,7 +23,10 @@
  * This project consists of python Errors and Exceptions
 
 ## 0x06. Python - Classes and Objects
- * This project consist of python class and objects
+ * This project consists of python class and objects
 
 ## 0x08. Python - More Classes and Objects
- * This project consit of more classes and objects
+ * This project consists of more classes and object
+
+## 0x09. Python - Everything is object
+ * This project consists of a deep practical explaination of python object

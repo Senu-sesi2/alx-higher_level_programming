@@ -24,3 +24,6 @@
 
 ## 0x06. Python - Classes and Objects
  * This project consist of python class and objects
+
+## 0x08. Python - More Classes and Objects
+ * This project consit of more classes and objects

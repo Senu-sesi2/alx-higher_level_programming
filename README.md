@@ -34,5 +34,8 @@
 ## 0x09. Python - Everything is object
  * This project consists of a deep practical explaination of python object
 
+## 0x0A. Python - Inheritance
+ * Thisis project consists of python inheritance
+
 ## 0x0B. Python - Input/Output
  * This project consists of python Input /Output functions

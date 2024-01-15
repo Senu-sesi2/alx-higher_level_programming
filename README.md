@@ -39,3 +39,6 @@
 
 ## 0x0B. Python - Input/Output
  * This project consists of python Input /Output functions
+
+## 0x0C. Python - Almost a circle
+ * This project consists of the Almost a circle project

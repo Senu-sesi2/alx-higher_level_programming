@@ -18,3 +18,27 @@
 
 ## 0x04. Python - More Data Structures: Set, Dictionary
  * This project consists of more of Data Structures set, Dictionary
+
+## 0x05. Python - Exceptions
+ * This project consists of python Errors and Exceptions
+
+## 0x06. Python - Classes and Objects
+ * This project consists of python class and objects
+
+## 0x07. Python - Test-driven development
+ * This project consists of text-driven development files
+
+## 0x08. Python - More Classes and Objects
+ * This project consists of more classes and object
+
+## 0x09. Python - Everything is object
+ * This project consists of a deep practical explaination of python object
+
+## 0x0A. Python - Inheritance
+ * Thisis project consists of python inheritance
+
+## 0x0B. Python - Input/Output
+ * This project consists of python Input /Output functions
+
+## 0x0C. Python - Almost a circle
+ * This project consists of the Almost a circle project

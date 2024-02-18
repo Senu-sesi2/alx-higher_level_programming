@@ -1,5 +1,5 @@
 ## This is the readme file for this project 0x0E. SQL - More queries
-This project and its containing tasks seek to explain 
+This project and its containing task seeks to explain 
 
 * How to create a new MySQL user
 * How to manage privileges for a user to a database or table

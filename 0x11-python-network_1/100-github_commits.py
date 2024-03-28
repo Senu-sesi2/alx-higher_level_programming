@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Python script that takes 2 arguments in order to solve the given challenge
+Script that takes 2 arguments in order to solve this challenge
 """
 import requests
 from sys import argv
